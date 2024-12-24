@@ -9,3 +9,5 @@ To assess statistical significance, I compared the test statistic with the **cri
 In addition to statistical significance, I also performed a practical significance check using the **minimum detectable effect (MDE)**, which defines the smallest difference in click rates that would be considered meaningful. I compared this value against the 95% confidence interval of the observed difference. If the lower bound of the confidence interval was greater than or equal to the MDE, it confirmed that the observed difference was not only statistically significant but also practically meaningful.
 
 Overall, the combination of these statistical tests allowed me to assess both the significance and the impact of the changes made in the experimental group, helping to draw actionable conclusions about whether the experimental design had a real effect. This methodology is essential for making data-driven decisions, ensuring that any changes made are both statistically and practically beneficial.
+
+##Thanks to FreeCodeCamp and LunarTech for this course
