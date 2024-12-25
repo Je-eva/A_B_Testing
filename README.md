@@ -10,4 +10,10 @@ In addition to statistical significance, I also performed a practical significan
 
 Overall, the combination of these statistical tests allowed me to assess both the significance and the impact of the changes made in the experimental group, helping to draw actionable conclusions about whether the experimental design had a real effect. This methodology is essential for making data-driven decisions, ensuring that any changes made are both statistically and practically beneficial.
 
+
+![image](https://github.com/user-attachments/assets/27bd0d4f-9f78-43fc-9c7f-05decb44f1f9)
+As you can see from the image, the control and the experimental are the two different use case scenarios for the application and its been found out that, the experimental one is found to be more business efficient , providing with more CTR
+
 <h2>Thanks to FreeCodeCamp and LunarTech for this course</h2>
+
+
